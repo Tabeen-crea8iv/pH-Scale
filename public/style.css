@@ -1,0 +1,62 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    text-align:center ;
+    background-color: rgb(11, 250, 210);
+    color: blue;
+    block-size: 70px;
+    padding-block-start: 40px;
+    inline-size: 250px;
+    margin-left: 350px;
+}
+
+#forteen{
+    background-color: rgb(1, 1, 56);
+}
+#thirteen{
+    background-color: rgb(3, 3, 134);
+}
+#twelve{
+    background-color: rgb(7, 7, 241);
+}
+#eleven{
+    background-color: rgb(47, 47, 243);
+}
+#ten{
+    background-color: rgb(105, 105, 248);
+}
+#nine{
+    background-color: rgb(134, 134, 247);
+}
+#eight{
+    background-color: rgb(177, 177, 250);
+}
+#seven{
+    background-color: rgb(1, 175, 59);
+}
+#six{
+    background-color: rgb(248, 178, 219);
+}
+#five{
+    background-color: rgb(252, 126, 210);
+}
+#four{
+    background-color: rgb(243, 115, 175);
+}
+#three{
+    background-color: rgb(250, 91, 165);
+}
+#two{
+    background-color: rgb(250, 56, 137);
+}
+#one{
+    background-color: rgb(243, 6, 105);
+}
+#zero{
+    background-color: rgb(151, 2, 52);
+}
+li{
+    list-style: none;
+    color: yellow;
+}
